@@ -1,5 +1,4 @@
 from imagem import tirar_foto, qualidade_maxima, Camera
-from imagem import *
 
 
 def iniciar_gravacao():
